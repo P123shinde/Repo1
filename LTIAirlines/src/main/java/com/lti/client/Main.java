@@ -6,8 +6,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//Filght f=new Filght(1001,"Mumbai","Pune");
-		//System.out.println(f.getFlightId()+ " "+f.getSource()+" "+f.getDestination());
+		Filght f=new Filght(1001,"Mumbai","Pune");
+		System.out.println(f.getFlightId()+ " "+f.getSource()+" "+f.getDestination());
 	  
 		//test data
 		int num1=10;int num2=20;
